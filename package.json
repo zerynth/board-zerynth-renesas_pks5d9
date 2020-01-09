@@ -1,0 +1,20 @@
+{
+    "description": "Add support for Synergy S5D9 Board",
+    "fullname": "board.zerynth.renesas_s5d9",
+    "git_pointer": "zerynth://zerynth-boards/renesas_s5d9",
+    "info": {
+        "board": "Renesas S5d9",
+        "chip_manufacturer": "Synergy",
+        "device": "S5D9",
+        "family_type": "ARM Cortex M4"
+    },
+    "keywords": [
+        "synergy",
+        "renesas",
+        "board"
+    ],
+    "repo": "official",
+    "title": "Renesas S5D9 Board Support Package",
+    "version": "r2.3.3",
+    "whatsnew": ""
+}

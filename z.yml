@@ -1,0 +1,15 @@
+---
+description: Add support for Renesas PK-S5D9 board
+fullname: board.zerynth.renesas_pks5d9
+info:
+    board: Renesas PK-S5D9
+    chip_manufacturer: Synergy
+    device: pks5d9
+    family_type: ARM Cortex M4
+keywords:
+- board
+- synergy 
+- renesas
+- pks5d9
+title: Renesas PK-S5D9 Support Package
+...
